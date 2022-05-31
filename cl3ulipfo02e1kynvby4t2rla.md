@@ -1,4 +1,4 @@
-## What Flutter VS React Native: Which one to Choose - Predicted Deep Analysis 2022-23
+## Flutter VS React Native: Which one to Choose - Predicted Deep Analysis 2022-23
 
 You are about to start App Development and confuse which technology to use? And with ease to quick, fast, with no such a extra amount and not a big deal with time, then we will be covering the whole bunch of related questions every beginners face during this phase.
 
