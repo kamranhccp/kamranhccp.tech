@@ -37,11 +37,9 @@ During past years, React Native is being one of best developing framework, loved
 ### Flutter VS React Native Statistics for Past 5 Years | 2017 -2022
 
 ![flutter.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1653140632616/4Oxm2idVR.PNG align="left")
-
+                                            [Graph by Google Trend Statistics]
 - *The Red Line of graph represents Flutter* 
 - *Blue represents React Native*
-
-[Graph by Google Trend Statistics]
 
 ## Comparison between FLUTTER & RECAT NATIVE
 ### Development & Deployment Performance 
