@@ -80,4 +80,4 @@ I personally working on flutter because of their widgets and community and every
 
 *That's all from my side. You can share your experience in comment box. ** Thank You ** for reading my blog.* 
 
-%%[dailydev]
+%%[fiverr]
